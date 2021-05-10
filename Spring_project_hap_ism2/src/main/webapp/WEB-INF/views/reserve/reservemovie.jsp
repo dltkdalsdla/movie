@@ -29,6 +29,9 @@
 			}
 		}
 	</script>
+	<style>
+		#
+	</style>
 	<script type="text/javascript"
 		src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
 	<script type="text/javascript"
@@ -106,7 +109,7 @@
 				<h3 class="hidden">상영시간</h3>
 				<div class="article article_cinema">
 					<div class="group_top">
-						<h4 class="tit">가양</h4>
+						<h4 class="tit"></h4>
 					</div>
 					<div class="inner">
 						<ul class="tab_wrap outer">
@@ -239,7 +242,7 @@
 				
 				<div class="article article_movie">
 					<div class="group_top">
-						<h4 class="tit movie_name">고질라 VS. 콩</h4>
+						<h4 class="tit movie_name"></h4>
 					</div>
 					<div class="inner">
 						<div class="list_filter">
@@ -266,245 +269,10 @@
 									class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside"
 									tabindex="0" style="max-height: none;">
 									<div id="mCSB_9_container" class="mCSB_container"
-										style="position: relative; top: -200px; left: 0px;" dir="ltr">
+										style="position: relative; left: 0px;" dir="ltr">
 										<ul>
-											<li class=""><a href="#none"><div
-														class="bx_thm">
-														<span class="rank"><span class="hidden">순위</span><strong>1</strong></span><img
-															src="https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202012/16557_101_1.jpg"
-															alt="포스터" class="mCS_img_loaded">
-													</div>
-													<div class="group_infor">
-														<div class="bx_tit">
-															<span class="ic_grade gr_15">15세 관람가</span><strong
-																class="tit">서복</strong>
-														</div>
-														<dl>
-															<dt>예매율</dt>
-															<dd>
-																<strong>21.5%</strong>
-															</dd>
-															<dt class="side">
-																<span class="txt_ic_score ty1"><em>평점</em></span>
-															</dt>
-															<dd>
-																<span class="txt_ic_score ty1"><strong>0.0</strong></span>
-															</dd>
-															<dt>개봉일</dt>
-															<dd>2021.04.15</dd>
-															<dt class="side day">d -day</dt>
-															<dd>
-																<strong class="expired"></strong>
-															</dd>
-														</dl>
-													</div></a></li>
-											<li class=""><a href="#none"><div
-														class="bx_thm">
-														<span class="rank"><span class="hidden">순위</span><strong>2</strong></span><img
-															src="https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202104/17215_101_1.jpg"
-															alt="포스터" class="mCS_img_loaded">
-													</div>
-													<div class="group_infor">
-														<div class="bx_tit">
-															<span class="ic_grade gr_18">18세 관람가</span><strong
-																class="tit">어른들은 몰라요</strong>
-														</div>
-														<dl>
-															<dt>예매율</dt>
-															<dd>
-																<strong>18.9%</strong>
-															</dd>
-															<dt class="side">
-																<span class="txt_ic_score ty1"><em>평점</em></span>
-															</dt>
-															<dd>
-																<span class="txt_ic_score ty1"><strong>0.0</strong></span>
-															</dd>
-															<dt>개봉일</dt>
-															<dd>2021.04.15</dd>
-															<dt class="side day">d -day</dt>
-															<dd>
-																<strong class="expired"></strong>
-															</dd>
-														</dl>
-													</div></a></li>
-											<li class=""><a href="#none"><div
-														class="bx_thm">
-														<span class="rank"><span class="hidden">순위</span><strong>3</strong></span><img
-															src="https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202104/17188_101_1.jpg"
-															alt="포스터" class="mCS_img_loaded">
-													</div>
-													<div class="group_infor">
-														<div class="bx_tit">
-															<span class="ic_grade gr_12">12세 관람가</span><strong
-																class="tit">명탐정 코난: 비색의 탄환</strong>
-														</div>
-														<dl>
-															<dt>예매율</dt>
-															<dd>
-																<strong>13.7%</strong>
-															</dd>
-															<dt class="side">
-																<span class="txt_ic_score ty1"><em>평점</em></span>
-															</dt>
-															<dd>
-																<span class="txt_ic_score ty1"><strong>0.0</strong></span>
-															</dd>
-															<dt>개봉일</dt>
-															<dd>2021.04.16</dd>
-															<dt class="side day">d -day</dt>
-															<dd>
-																<strong class="expired"></strong>
-															</dd>
-														</dl>
-													</div></a></li>
-											<li class=""><a href="#none"><div class="bx_thm">
-														<span class="rank"><span class="hidden">순위</span><strong>4</strong></span><img
-															src="https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202102/16756_101_1.jpg"
-															alt="포스터" class="mCS_img_loaded">
-													</div>
-													<div class="group_infor">
-														<div class="bx_tit">
-															<span class="ic_grade gr_12">12세 관람가</span><strong
-																class="tit">자산어보</strong>
-														</div>
-														<dl>
-															<dt>예매율</dt>
-															<dd>
-																<strong>7.7%</strong>
-															</dd>
-															<dt class="side">
-																<span class="txt_ic_score ty1"><em>평점</em></span>
-															</dt>
-															<dd>
-																<span class="txt_ic_score ty1"><strong>9.2</strong></span>
-															</dd>
-															<dt>개봉일</dt>
-															<dd>2021.03.31</dd>
-															<dt class="side day">d -day</dt>
-															<dd>
-																<strong class="expired"></strong>
-															</dd>
-														</dl>
-													</div></a></li>
-											<li class=""><a href="#none"><div class="bx_thm">
-														<span class="rank"><span class="hidden">순위</span><strong>5</strong></span><img
-															src="https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202101/16908_101_1.jpg"
-															alt="포스터" class="mCS_img_loaded">
-													</div>
-													<div class="group_infor">
-														<div class="bx_tit">
-															<span class="ic_grade gr_15">15세 관람가</span><strong
-																class="tit">극장판 귀멸의 칼날: 무한열차편</strong>
-														</div>
-														<dl>
-															<dt>예매율</dt>
-															<dd>
-																<strong>6.4%</strong>
-															</dd>
-															<dt class="side">
-																<span class="txt_ic_score ty1"><em>평점</em></span>
-															</dt>
-															<dd>
-																<span class="txt_ic_score ty1"><strong>9.1</strong></span>
-															</dd>
-															<dt>개봉일</dt>
-															<dd>2021.02.03</dd>
-															<dt class="side day">d -day</dt>
-															<dd>
-																<strong class="expired"></strong>
-															</dd>
-														</dl>
-													</div></a></li>
-											<li class=""><a href="#none"><div
-														class="bx_thm">
-														<span class="rank"><span class="hidden">순위</span><strong>6</strong></span><img
-															src="https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202103/17057_101_1.jpg"
-															alt="포스터" class="mCS_img_loaded">
-													</div>
-													<div class="group_infor">
-														<div class="bx_tit">
-															<span class="ic_grade gr_12">12세 관람가</span><strong
-																class="tit">고질라 VS. 콩</strong>
-														</div>
-														<dl>
-															<dt>예매율</dt>
-															<dd>
-																<strong>4.1%</strong>
-															</dd>
-															<dt class="side">
-																<span class="txt_ic_score ty1"><em>평점</em></span>
-															</dt>
-															<dd>
-																<span class="txt_ic_score ty1"><strong>8.3</strong></span>
-															</dd>
-															<dt>개봉일</dt>
-															<dd>2021.03.25</dd>
-															<dt class="side day">d -day</dt>
-															<dd>
-																<strong class="expired"></strong>
-															</dd>
-														</dl>
-													</div></a></li>
-											<li class=""><a href="#none"><div
-														class="bx_thm">
-														<span class="rank"><span class="hidden">순위</span><strong>7</strong></span><img
-															src="https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202104/17071_101_1.jpg"
-															alt="포스터" class="mCS_img_loaded">
-													</div>
-													<div class="group_infor">
-														<div class="bx_tit">
-															<span class="ic_grade gr_all">0세 관람가</span><strong
-																class="tit">당신의 사월</strong>
-														</div>
-														<dl>
-															<dt>예매율</dt>
-															<dd>
-																<strong>3.9%</strong>
-															</dd>
-															<dt class="side">
-																<span class="txt_ic_score ty1"><em>평점</em></span>
-															</dt>
-															<dd>
-																<span class="txt_ic_score ty1"><strong>10.0</strong></span>
-															</dd>
-															<dt>개봉일</dt>
-															<dd>2021.04.01</dd>
-															<dt class="side day">d -day</dt>
-															<dd>
-																<strong class="expired"></strong>
-															</dd>
-														</dl>
-													</div></a></li>
-											<li class=""><a href="#none"><div class="bx_thm">
-														<span class="rank"><span class="hidden">순위</span><strong>8</strong></span><img
-															src="https://caching.lottecinema.co.kr//Media/MovieFile/MovieImg/202103/16888_101_1.jpg"
-															alt="포스터" class="mCS_img_loaded">
-													</div>
-													<div class="group_infor">
-														<div class="bx_tit">
-															<span class="ic_grade gr_12">12세 관람가</span><strong
-																class="tit">미나리</strong>
-														</div>
-														<dl>
-															<dt>예매율</dt>
-															<dd>
-																<strong>3.5%</strong>
-															</dd>
-															<dt class="side">
-																<span class="txt_ic_score ty1"><em>평점</em></span>
-															</dt>
-															<dd>
-																<span class="txt_ic_score ty1"><strong>8.4</strong></span>
-															</dd>
-															<dt>개봉일</dt>
-															<dd>2021.03.03</dd>
-															<dt class="side day">d -day</dt>
-															<dd>
-																<strong class="expired"></strong>
-															</dd>
-														</dl>
-													</div></a></li>
+											
+
 											</ul>
 									</div>
 								</div>
@@ -523,151 +291,10 @@
 						</div>
 					</div>
 				</div>
-					<script>
-					var BB="";
-					$(".depth1").click(	function() {
-										$(this).addClass(' active');
-										$(this).siblings('li').removeClass('active');
-										$(this).find(".depth2").css('display',
-												'block');
-										$(this).siblings('li').find(".depth2")
-												.css('display', 'none');
-										$(this).siblings('li').find(".depth2")
-												.find('li').removeClass('active');
-										// 						$(this).toggleClass('active');
-										// 						$(".depth1").toggleClass('active');
-										// 						$(this).siblings('li').toggleClass('active');
-									});
 					
-					$(".depth2").find('li').click(function() {
-						$(this).addClass(' active');
-						$(this).siblings('li').removeClass('active');
-						locB = $(".depth2").find(".active").text();
-						
-						return locB;
-// 			  			alert(locB);
-// 						var a = '';
-// 						a += '<dl>';
-// 						a += '<dt>' + '선택한 영화 제목' + '</dt>';
-// 						a += '<dd>' +  + '</dd>';
-// 						a += '<dt>선택한 상영관</dt>';
-// 						a += '<dd>' + locB + '</dd>';
-// 						a += '<dt>선택한 상영날짜</dt>';
-// 						a += '<dd>' +  + '</dd>';
-// 						a += '<dt>선택한 시간</dt>';
-// 						a += '<dd>' +  + '</dd>';
-// 						a += '</dl>'
-// 						$(".bx_con").html(a);
-					});
-					
-					
-					
-				
-					$(".mCSB_container").find('li').click(function(){
-// 						alert($(this).html())
-						$(this).addClass(' active');
-						$(this).siblings('li').removeClass('active');
-						mName = $(this).find(".tit").text();
-// 						var a = '';
-// 						a += '<dl>';
-// 						a += '<dt>' + '선택한 영화 제목' + '</dt>';
-// 						a += '<dd>' + mName + '</dd>';
-// 						a += '<dt>선택한 상영관</dt>';
-// 						a += '<dd>' +  + '</dd>';
-// 						a += '<dt>선택한 상영날짜</dt>';
-// 						a += '<dd>' +  + '</dd>';
-// 						a += '<dt>선택한 시간</dt>';
-// 						a += '<dd>' +  + '</dd>';
-// 						a += '</dl>'
-// 						$(".bx_con").html(a);
-					});
-					
-					var BB = $(".depth2").find(".active").text();
-						
-					if(BB != ""){
-					alert(BB);
-					}
-					
-					 
-					// 					if(locB != ""){
-						
-					var a = '';
-					a += '<dl>';
-					a += '<dt>' + '선택한 영화 제목' + '</dt>';
-					a += '<dd>' +"" + '</dd>';
-					a += '<dt>선택한 상영관</dt>';
-					a += '<dd>' + "" + '</dd>';
-					a += '<dt>선택한 상영날짜</dt>';
-					a += '<dd>' +  + '</dd>';
-					a += '<dt>선택한 시간</dt>';
-					a += '<dd>' +  + '</dd>';
-					a += '</dl>'
-					$(".bx_con").html(a);
-// 					}
-					function dateslide(){
-						
-					};
-					$(document).ready(function(){
-					  
-					
-					var i;
-					    var a='';
-					for(i=0; i<20; i++){
-						var setdate =moment().add(i,'d').format("YYYY-MM-DD ddd");
-						var set =moment().add(i,'d');
-						var month = set.format("M")+"월";
-						var date = set.format("D");
-						var day = set.format("ddd");
-						if (day == moment().format("ddd")){
-							day="오늘";
-						}
-						console.log(setdate);
-						console.log(month+date+day);
-				 		
-				 		a+=	'<div class="owl-item active" style="width: 60px;">';
-				 		a+=	'<li class="item"><strong class="month">'+month+'</strong>';
-				 		a+=	'<span	class="date"><label><input type="radio" name="radioDate1" data-displayyn="Y"';
-				 		a+=	'data-playdate='+setdate+' data-isplaydate="Y"';
-				 		a+=	'data-playweek='+day+' checked=""><strong>'+date+'</strong><em>'+day+'</em></label></span></li></div>';
-				 		
-// 						<div class="owl-item active" style="width: 52.5px;">
-// 						<li class="item"><strong class="month">4월</strong>
-// 						<span class="date"><label><input type="radio"
-// 									name="radioDate1" data-displayyn="Y"
-// 									data-playdate="2021-04-12" data-isplaydate="Y"
-// 									data-playweek="오늘" checked=""><strong>12</strong><em>오늘</em></label></span></li>
-// 						</div>
-							
-					};
-					$(".owl-stage").append(a);
-					  var owl = $('.owl-carousel');
-					    
-					    owl.owlCarousel({
-					        items:7,                 // 한번에 보여줄 아이템 수
-					        loop:false,               // 반복여부
-					                   
-					        autoplay:false,           // 자동재생 여부
-					        autoplayTimeout:1800,    // 재생간격
-					        autoplayHoverPause:true  //마우스오버시 멈출지 여부
-					    });
-					    $('.owl-next').click(function() {
-					        owl.trigger('next.owl.carousel');
-					    })
-					    
-					    $('.owl-prev').click(function() {
-					        owl.trigger('prev.owl.carousel', [300]);
-					    })
-					});
-					
-
-					
-					
-					
-                    
-				</script>
 				<div class="article article_time">
 					<div class="group_top">
-						<h4 class="tit">2021-04-12(오늘)</h4>
+						<h4 class="tit"></h4>
 					</div>
 					<div class="inner">
 						<div class="date_select_wrap dateReserveWrap">
@@ -713,94 +340,13 @@
 												style="position: relative; top: 0; left: 0;" dir="ltr">
 												<div class="group_time_select">
 													<div class="time_select_tit">
-														<span class="ic_grade gr_12">12</span><strong>고질라
-															VS. 콩</strong>
+<!-- 														<span class="ic_grade gr_12">12</span><strong>고질라VS.콩</strong> -->
+														<div class="bx_notice"><p>조회 가능한 상영시간이 없습니다.</p><p>조건을 변경해주세요.</p></div>
 													</div>
 													<div class="time_select_wrap timeSelect">
-														<ul class="list_hall">
-															<li>2D</li>
-														</ul>
+
 														<ul class="list_time">
-															<li class=""><a role="button"
-																href="./seat?sid=8"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>10:00</strong>
-																			<div class="tooltip">종료 11:53</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>예매마감</strong>
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">1관</dd>
-																	</dl></a></li>
-															<li class=""><a role="button" href="./seat?sid=14"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>12:00</strong>
-																			<div class="tooltip">종료 13:53</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>예매마감</strong>
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">1관</dd>
-																	</dl></a></li>
-															<li class=""><a role="button" href="#none"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>14:00</strong>
-																			<div class="tooltip">종료 15:53</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>예매마감</strong>
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">1관</dd>
-																	</dl></a></li>
-																	
-															<li class="full disable"><a role="button" href="#none"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>16:00</strong>
-																			<div class="tooltip">종료 17:53</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>예매마감</strong>
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">1관</dd>
-																	</dl></a></li>
-																	<li class=""><a role="button" href="#none"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>18:00</strong>
-																			<div class="tooltip">종료 19:53</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>예매마감</strong>
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">1관</dd>
-																	</dl></a></li>
-															<li class=""><a role="button" href="#none"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>19:55</strong>
-																			<div class="tooltip">종료 21:58</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>138</strong> / 210
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">6관</dd>
-																	</dl></a></li>
+
 														</ul>
 													</div>
 												</div>
@@ -819,251 +365,20 @@
 										</div>
 									</div>
 								</div></li>
-							<li><button type="button" class="tab_tit"
-									style="width: 16.6667%; left: 16.6667%;">
-									<span>스페셜관</span>
-								</button>
-								<div class="tab_con ty5">
-									<h5 class="hidden">스페셜관</h5>
-									<div
-										class="timeScroll mCustomScrollbar _mCS_54 mCS-autoHide mCS_no_scrollbar"
-										data-mcs-theme="minimal-dark"
-										style="position: relative; overflow: visible;">
-										<div id="mCSB_54"
-											class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside"
-											style="max-height: none;" tabindex="0">
-											<div id="mCSB_54_container"
-												class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y"
-												style="position: relative; top: 0; left: 0;" dir="ltr">
-												<div class="bx_notice">
-													<p>조회 가능한 상영시간이 없습니다.</p>
-													<p>조건을 변경해주세요.</p>
-												</div>
-											</div>
-										</div>
-										<div id="mCSB_54_scrollbar_vertical"
-											class="mCSB_scrollTools mCSB_54_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical"
-											style="display: none;">
-											<div class="mCSB_draggerContainer">
-												<div id="mCSB_54_dragger_vertical" class="mCSB_dragger"
-													style="position: absolute; min-height: 50px; height: 0px; top: 0px;">
-													<div class="mCSB_dragger_bar" style="line-height: 50px;"></div>
-												</div>
-												<div class="mCSB_draggerRail"></div>
-											</div>
-										</div>
-									</div>
-								</div></li>
-							<li><button type="button" class="tab_tit"
-									style="width: 16.6667%; left: 33.3333%;">
-									<span>Atmos</span>
-								</button>
-								<div class="tab_con ty5">
-									<h5 class="hidden">Atmos</h5>
-									<div
-										class="timeScroll mCustomScrollbar _mCS_55 mCS-autoHide mCS_no_scrollbar"
-										data-mcs-theme="minimal-dark"
-										style="position: relative; overflow: visible;">
-										<div id="mCSB_55"
-											class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside"
-											style="max-height: none;" tabindex="0">
-											<div id="mCSB_55_container"
-												class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y"
-												style="position: relative; top: 0; left: 0;" dir="ltr">
-												<div class="bx_notice">
-													<p>조회 가능한 상영시간이 없습니다.</p>
-													<p>조건을 변경해주세요.</p>
-												</div>
-											</div>
-										</div>
-										<div id="mCSB_55_scrollbar_vertical"
-											class="mCSB_scrollTools mCSB_55_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical"
-											style="display: none;">
-											<div class="mCSB_draggerContainer">
-												<div id="mCSB_55_dragger_vertical" class="mCSB_dragger"
-													style="position: absolute; min-height: 50px; height: 0px; top: 0px;">
-													<div class="mCSB_dragger_bar" style="line-height: 50px;"></div>
-												</div>
-												<div class="mCSB_draggerRail"></div>
-											</div>
-										</div>
-									</div>
-								</div></li>
-							<li><button type="button" class="tab_tit"
-									style="width: 16.6667%; left: 50%;">
-									<span>13시간 이후</span>
-								</button>
-								<div class="tab_con ty5">
-									<h5 class="hidden">13시 이후</h5>
-									<div
-										class="timeScroll mCustomScrollbar _mCS_56 mCS-autoHide mCS_no_scrollbar"
-										data-mcs-theme="minimal-dark"
-										style="position: relative; overflow: visible;">
-										<div id="mCSB_56"
-											class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside"
-											style="max-height: none;" tabindex="0">
-											<div id="mCSB_56_container"
-												class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y"
-												style="position: relative; top: 0; left: 0;" dir="ltr">
-												<div class="group_time_select">
-													<div class="time_select_tit">
-														<span class="ic_grade gr_12">12</span><strong>고질라
-															VS. 콩</strong>
-													</div>
-													<div class="time_select_wrap timeSelect">
-														<ul class="list_hall">
-															<li>2D</li>
-														</ul>
-														<ul class="list_time">
-															<li class=""><a role="button" href="#none"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>15:10</strong>
-																			<div class="tooltip">종료 17:13</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>135</strong> / 210
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">6관</dd>
-																	</dl></a></li>
-															<li class=""><a role="button" href="#none"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>17:30</strong>
-																			<div class="tooltip">종료 19:33</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>138</strong> / 210
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">6관</dd>
-																	</dl></a></li>
-															<li class=""><a role="button" href="#none"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>19:55</strong>
-																			<div class="tooltip">종료 21:58</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>138</strong> / 210
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">6관</dd>
-																	</dl></a></li>
-														</ul>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div id="mCSB_56_scrollbar_vertical"
-											class="mCSB_scrollTools mCSB_56_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical"
-											style="display: none;">
-											<div class="mCSB_draggerContainer">
-												<div id="mCSB_56_dragger_vertical" class="mCSB_dragger"
-													style="position: absolute; min-height: 50px; height: 0px; top: 0px;">
-													<div class="mCSB_dragger_bar" style="line-height: 50px;"></div>
-												</div>
-												<div class="mCSB_draggerRail"></div>
-											</div>
-										</div>
-									</div>
-								</div></li>
-							<li><button type="button" class="tab_tit"
-									style="width: 16.6667%; left: 66.6667%;">
-									<span>19시간 이후</span>
-								</button>
-								<div class="tab_con ty5">
-									<h5 class="hidden">19시 이후</h5>
-									<div
-										class="timeScroll mCustomScrollbar _mCS_57 mCS-autoHide mCS_no_scrollbar"
-										data-mcs-theme="minimal-dark"
-										style="position: relative; overflow: visible;">
-										<div id="mCSB_57"
-											class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside"
-											style="max-height: none;" tabindex="0">
-											<div id="mCSB_57_container"
-												class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y"
-												style="position: relative; top: 0; left: 0;" dir="ltr">
-												<div class="group_time_select">
-													<div class="time_select_tit">
-														<span class="ic_grade gr_12">12</span><strong>고질라
-															VS. 콩</strong>
-													</div>
-													<div class="time_select_wrap timeSelect">
-														<ul class="list_hall">
-															<li>2D</li>
-														</ul>
-														<ul class="list_time">
-															<li class=""><a role="button" href="#none"><dl>
-																		<dt>상영시간</dt>
-																		<dd class="time">
-																			<strong>19:55</strong>
-																			<div class="tooltip">종료 21:58</div>
-																		</dd>
-																		<dt>잔여석</dt>
-																		<dd class="seat">
-																			<strong>138</strong> / 210
-																		</dd>
-																		<dt>상영관</dt>
-																		<dd class="hall">6관</dd>
-																	</dl></a></li>
-														</ul>
-													</div>
-												</div>
-											</div>
-										</div>
-										<div id="mCSB_57_scrollbar_vertical"
-											class="mCSB_scrollTools mCSB_57_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical"
-											style="display: none;">
-											<div class="mCSB_draggerContainer">
-												<div id="mCSB_57_dragger_vertical" class="mCSB_dragger"
-													style="position: absolute; min-height: 50px; height: 0px; top: 0px;">
-													<div class="mCSB_dragger_bar" style="line-height: 50px;"></div>
-												</div>
-												<div class="mCSB_draggerRail"></div>
-											</div>
-										</div>
-									</div>
-								</div></li>
-							<li><button type="button" class="tab_tit"
-									style="width: 16.6667%; left: 83.3333%;">
-									<span>심야</span>
-								</button>
-								<div class="tab_con ty5">
-									<h5 class="hidden">심야</h5>
-									<div
-										class="timeScroll mCustomScrollbar _mCS_58 mCS-autoHide mCS_no_scrollbar"
-										data-mcs-theme="minimal-dark"
-										style="position: relative; overflow: visible;">
-										<div id="mCSB_58"
-											class="mCustomScrollBox mCS-minimal-dark mCSB_vertical mCSB_outside"
-											style="max-height: none;" tabindex="0">
-											<div id="mCSB_58_container"
-												class="mCSB_container mCS_y_hidden mCS_no_scrollbar_y"
-												style="position: relative; top: 0; left: 0;" dir="ltr">
-												<div class="bx_notice">
-													<p>조회 가능한 상영시간이 없습니다.</p>
-													<p>조건을 변경해주세요.</p>
-												</div>
-											</div>
-										</div>
-										<div id="mCSB_58_scrollbar_vertical"
-											class="mCSB_scrollTools mCSB_58_scrollbar mCS-minimal-dark mCSB_scrollTools_vertical"
-											style="display: none;">
-											<div class="mCSB_draggerContainer">
-												<div id="mCSB_58_dragger_vertical" class="mCSB_dragger"
-													style="position: absolute; min-height: 50px; height: 0px; top: 0px;">
-													<div class="mCSB_dragger_bar" style="line-height: 50px;"></div>
-												</div>
-												<div class="mCSB_draggerRail"></div>
-											</div>
-										</div>
-									</div>
-								</div></li>
+							
+								<div class="group_rgt">
+										<input type="hidden" class="tit" name="tit"> 
+										<input type="hidden" class="selectedTheater" name="selectedTheater"> 
+										<input type="hidden" class="reserveDate" name="reserveDate">
+										<input type="hidden" class="reserveTimestamp" name="reserveTimestamp"> 
+										<input type="hidden" class="runningTime" name="runningTime"> 
+										<input type="hidden" class="movieAge" name="movieAge">
+										<input type="hidden" class="ticketNumber" name="ticketNumber">
+										<input type="hidden" class="selectedSeat" name="seat">
+										<input type="hidden" class="remainSeat" name="remainseat">
+										<input type="hidden" class="payMoney" name="payMoney">
+										<a href="javascript:void(0);" class="btn_col1" id="link_rpay">예매하기</a>									
+								</div>
 						</ul>
 					</div>
 				</div>
@@ -1071,33 +386,11 @@
 		</div>
 	</div>
 
-	<!-- step01 -->
-
-
-	<!-- //step01 -->
-
-
-	<script type="text/javascript">
-		function closeScreenLayer() {
-			//$("#stepOnePopupMiniMap").empty();
-			closeLayer();
-			$(".tempZindex").css({
-				"z-index" : "inherit"
-			}).removeClass("tempZindex");
-			if ($(this).hasClass("CloseLayerSaving") == true) {
-				$(".article_payment_fin > .inner").animate({
-					"margin-right" : "0"
-				}, "fast", function() {
-					$(".article_payment_fin").removeClass("side");
-				});
-			}
-		}
-	</script>
+	<script type="text/javascript" src="/js/reservemovie.js"></script>
 
 
 
-
-
+	
 
 	<div id="banner_reserve_section" class="banner_reserve_wrap"></div>
 	<div id="banner_side_section" class="banner_side_wrap"></div>
@@ -1113,22 +406,5 @@
 
 
 
-
-	<script>
-		if (document.readyState == "complete") {
-			document.getElementById("loading").classList.remove('loader');
-			document.getElementById("loading").classList
-					.remove('loader-bouncing');
-			document.getElementById("loading").classList.remove('is-active');
-		}
-
-		//document.addEventListener('readystatechange', event => {
-		//    if (event.target.readyState === "complete") {
-		//        document.getElementById("loading").classList.remove('loader');
-		//        document.getElementById("loading").classList.remove('loader-bouncing');
-		//        document.getElementById("loading").classList.remove('is-active');
-		//    }
-		//});
-	</script>
 </body>
 </html>
