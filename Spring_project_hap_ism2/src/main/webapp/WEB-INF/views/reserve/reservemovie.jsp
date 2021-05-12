@@ -45,12 +45,7 @@
 	<link rel="stylesheet" href="/css/content1.css">
 	<link rel="stylesheet" href="/css/dev.css">
 	
-<!-- 	<script src="/js/common.js"></script> -->
-<!-- 	<script src="/js/lcga.js"></script> -->
-<!-- 	<script src="/js/lccommon.js"></script> -->
-<!-- 	<script src="/js/plugin.js"></script> -->
-<!-- 	<script src="/js/util.js"></script> -->
-<!-- 	<script src="/js/member.js"></script> -->
+
 	<script src="/js/jquery.mCustomScrollbar.concat.min.js"></script>
 	<script src="/js/moment.js"></script>
 	<script src="/js/owl.carousel.js"></script>
